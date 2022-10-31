@@ -12,7 +12,7 @@ This tool is developed for lazy bug bountry hunters, to save time. More 50+ webs
  Run the python file. <br>
  python main.py <target_URL> <br>
  <b>example: python main.py dipenluitel30.com.np</b> <br>
- Hit enter to continue loading sites<br>
+ Hit enter to continue loading sites.<br>
  
 # Installation in Linux 
 ./install.sh <br>
