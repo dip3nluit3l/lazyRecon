@@ -1,0 +1,5 @@
+webbrowser
+pyfiglet
+keyboard
+json
+sys
