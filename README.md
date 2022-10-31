@@ -4,4 +4,12 @@ This tool is developed for lazy bug bountry hunters, to save time. More 50+ webs
 - Certificate Checker
 - Github Dorking 
 - Google Dorking 
-# Subdomain Eneumeration
+
+# Installation
+  This tool is completely based in python so, this tool can be used in any operating system where python is supported.
+
+# Installation in Windows
+ Run the python file 
+ 
+# Installation in Linux 
+ Bash file will be created soon
