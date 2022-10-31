@@ -5,7 +5,7 @@ import keyboard
 import json
 import sys,getopt
 text = pyfiglet.figlet_format("LazyHunter")
-TARGET = sys.argv[2]
+TARGET = sys.argv[1]
 
 with open("data.json", "r") as file:
     jsonData = json.load(file)
