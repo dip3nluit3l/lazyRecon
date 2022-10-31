@@ -1,0 +1,64 @@
+{
+"url": [
+        {
+                "Virustotal": "https://www.virustotal.com/gui/domain/",
+                "CRT": "https://crt.sh/?q=",
+                "pld": "https://riddler.io/search?q=pld:",
+                "host": "https://riddler.io/search?q=host:",
+                "table": "https://riddler.io/search?q=keyword%3A",
+                "#DNSTable": "https://dnstable.com/domain/",
+                "securityTrails": "https://securitytrails.com/list/apex_domain/",
+                "certSplottter": "https://sslmate.com/signup?for=ct_search_api",
+                "portScan": "https://viewdns.info/portscan/?host=",
+
+                "dnsReport": " https://viewdns.info/dnsreport/?domain=",
+                "reverseWhoIs": "http://viewdns.info/reversewhois/?q=",
+                "whoIs": "https://viewdns.info/whois/?domain=",
+                "dnsAnalytics": "https://dnslytics.com/domain/",
+                "threatCrowd": "https://www.threatcrowd.org/domain.php?domain=",
+                "securityHeaders": "https://securityheaders.com/?q=",
+                "Headers": "https://viewdns.info/httpheaders/?domain=",
+                "builtWith": "https://builtwith.com/",
+
+                "Ssl": "https://www.ssllabs.com/ssltest/analyze.html?d=",
+                "certDB": "https://certdb.com/search/index?q=",
+                "transparancyReport": "https://transparencyreport.google.com/https/certificates?cert_search_auth=&cert_search_cert=",
+                "netCraft": "http://toolbar.netcraft.com/site_report?url=",
+                "securiNet": "https://sitecheck.sucuri.net/results/",
+                "upGuard": "https://www.upguard.com/instant-security-score/report?c=",
+                "observatory": "https://observatory.mozilla.org/analyze/",
+                "Accessefy": "https://www.accessify.com/g/",
+                "wayBackMachine": "https://web.archive.org/web/*/",
+
+                "fofa": "https://fofa.so/result?q=",
+                "zoomEye": "https://www.zoomeye.org/searchResult/bugs?q=",
+                "shodan": "https://www.shodan.io/search?query=",
+                "centSYS": "https://www.censys.io/ipv4?q=",
+
+                "documentByExtension": "https://www.google.ca/search?q=text:doc+or+ext:docx+OR+ext:csv+OR+ext:pdf+OR+ext:txt+OR+ext:log+OR+ext:bak+site:",
+                "apacheStruds": "https://www.google.ca/search?q=ext:action+OR+struts+site:",
+                "findInPastebin": "https://www.google.ca/search?q=site:pastebin.com+",
+                "employeeInLinkedin": "https://www.google.ca/search?q=site:linkedin.com+employees+",
+                "loginPages": "https://www.google.ca/search?q=username+OR+password+OR+login+OR+root+OR+admin+site:",
+                "searchForBackdoors": "https://www.google.ca/search?q=inurl:shell+OR+inurl:backdoor+OR+inurl:wso+OR+inurl:cmd+OR+shadow+OR+passwd+OR+boot.ini+OR+inurl:backdoor+site:",
+                "setupOrInstalledFiles": "https://www.google.ca/search?q=inurl:readme+OR+inurl:license+OR+inurl:install+OR+inurl:setup+OR+inurl:config+site:",
+                "WpPluginDownloadUploads": "https://www.google.ca/search?q=inurl:wp-+OR+inurl:plugin+OR+inurl:upload+OR+inurl:download+site:",
+                "openRedirects": "https://www.google.ca/search?q=inurl:redir+OR+inurl:url+OR+inurl:redirect+OR+inurl:return+OR+inurl:src=http+OR+inurl:r=http+site:",
+
+                "githubDorks": "https://github.com/search?q=",
+                "npmAuthRegistery": "https://github.com/search?q=filename:.npmrc_auth+",
+                "dorkRegistaryAuthData": "https://github.com/search?q=filename:.dockercfg+auth+",
+                "privateKeys": "https://github.com/search?q=extension:pem+private+",
+                "puttyGenPrivateKeys": "https://github.com/search?q=extension:ppk+private+",
+                "sshKeysRSA": "https://github.com/search?q=filename:id_rsa+",
+                "sshKeysDSA": "https://github.com/search?q=filename:id_dsa+",
+                "mySQLDump": "https://github.com/search?q=extension:sql+mysql+dump+",
+                "mySQLDumpPasswd": "https://github.com/search?q=extension:sql+mysql+dump+password+",
+                "htPasswd": "https://github.com/search?q=filename:.htpasswd+",
+                "herukuAPIKeysSHELL": "https://github.com/search?q=HEROKU_API_KEY+language:shell+",
+                "herukuAPIKeysJSON": "https://github.com/search?q=HEROKU_API_KEY+language:json+",
+                "bashHistory": "https://github.com/search?q=filename:.bash_history+",
+                "historyFile": "https://github.com/search?q=filename:.history+"
+        }
+        ]
+}
