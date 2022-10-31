@@ -10,6 +10,13 @@ This tool is developed for lazy bug bountry hunters, to save time. More 50+ webs
 
 # Installation in Windows
  Run the python file 
+ python main.py <target_URL>
+ example: python main.py dipenluitel30.com.np
+ Hit enter to continue loading sites
  
 # Installation in Linux 
- Bash file will be created soon
+./install.sh
+Running the script:
+lazyHunter <target_url>
+Example: lazyHunter dipenluitel30.com.np
+Hit enter to continue loading sites
